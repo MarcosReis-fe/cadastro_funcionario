@@ -10,9 +10,9 @@ def dispara_email(titulo, mensagem):
 
     try:
     
-        email_remetente = "marcosraves2@gmail.com"
+        email_remetente = ""
         senha = ""  
-        email_destino = "marcosreisdev@hotmail.com"
+        email_destino = ""
         
         # Monta a menssagem com base no corpo nos parametros
         msg = MIMEMultipart()
