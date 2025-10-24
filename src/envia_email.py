@@ -11,7 +11,7 @@ def dispara_email(titulo, mensagem):
     try:
     
         email_remetente = "marcosraves2@gmail.com"
-        senha = "wifo wxej znkf smkd"  
+        senha = ""  
         email_destino = "marcosreisdev@hotmail.com"
         
         # Monta a menssagem com base no corpo nos parametros
